@@ -270,19 +270,19 @@ BST height: 3   (AVL balanced, O(log n) guaranteed)
 ### Customer Menu and Order Receipt
 
 <p align="center">
-  <img src="assets/Screenshot%202026-06-17%20at%2012.46.27%E2%80%AFAM.png" width="700">
+  <img src="assets/Screenshot%202026-06-17%20at%2012.46.27%E2%80%AFAM.png" width="500">
 </p>
 
 ### Admin Dashboard — Live System Metrics
 
 <p align="center">
-  <img src="assets/Screenshot%202026-06-17%20at%2012.45.28%E2%80%AFAM.png" width="700">
+  <img src="assets/Screenshot%202026-06-17%20at%2012.45.28%E2%80%AFAM.png" width="500">
 </p>
 
 ### Delivery Graph — Adjacency List
 
 <p align="center">
-  <img src="assets/Screenshot%202026-06-17%20at%2012.08.39%E2%80%AFAM.png" width="700">
+  <img src="assets/Screenshot%202026-06-17%20at%2012.08.39%E2%80%AFAM.png" width="500">
 </p>
 
 
