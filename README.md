@@ -288,13 +288,13 @@ BST height: 3   (AVL balanced, O(log n) guaranteed)
 ## 2.10 Screenshots
 
 ### Customer Menu and Order Receipt
-![Customer Menu and Order Receipt](/Users/subratapanda/Desktop/Food Delivery/assets/Screenshot 2026-06-17 at 12.46.27 AM.png)
+![Customer Menu and Order Receipt](assets/Screenshot%202026-06-17%20at%2012.46.27 AM.png)
 
 ### Admin Dashboard — Live System Metrics
-![Admin Dashboard](/Users/subratapanda/Desktop/Food Delivery/assets/Screenshot 2026-06-17 at 12.45.28 AM.png)
+![Admin Dashboard](assets/Screenshot%202026-06-17%20at%2012.45.28 AM.png)
 
 ### Delivery Graph — Adjacency List
-![Delivery Graph](/Users/subratapanda/Desktop/Food Delivery/assets/Screenshot 2026-06-17 at 12.08.39 AM.png)
+![Delivery Graph](assets/Screenshot%202026-06-17%20at%2012.08.39 AM.png)
 
 Note: The terminal screenshot above is a capture of a scripted run of the program (placing a quick order) and shows the real receipt output produced by the binary.
 
