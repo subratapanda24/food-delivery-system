@@ -1,0 +1,21 @@
+# Build folders
+build/
+
+# Compiled executables
+food_delivery_system
+food_delivery
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log

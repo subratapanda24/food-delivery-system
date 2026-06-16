@@ -1,0 +1,19 @@
+ 1
+[2J[H
+[38;5;203m====================================================================[0m
+[38;5;203m|[0m             [1m  ADMIN PANEL  --  Food Delivery System[0m              [38;5;203m|[0m
+[38;5;203m====================================================================[0m
+
+  Time: 23:53:15   Orders in system: 5   Queue pending: 5
+
+[2m--------------------------------------------------------------------[0m
+  [1]  Dashboard & Metrics
+  [2]  Order Management       (Queue, Stack, Priority Heap)
+  [3]  Route Optimization     (Dijkstra, BFS, DFS)
+  [4]  Restaurant Database    (BST / AVL Tree)
+  [5]  Hash Table Viewer      (Order Tracking)
+  [6]  Delivery Partners
+[2m--------------------------------------------------------------------[0m
+  [0]  Back to Main Menu
+
+  Choice:
