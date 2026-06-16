@@ -1,25 +1,5 @@
 # Food Delivery System
 
-> Case Study No. 137 | Subrata Panda | Roll No: 150096725110
-> Cohort: Larry Page | Academic Year: 2025–2029
-
----
-
-## Table of Contents
-
-- [2.1 Project Title](#21-project-title)
-- [2.2 Problem Statement](#22-problem-statement)
-- [2.3 Objectives](#23-objectives)
-- [2.4 System Overview / Architecture](#24-system-overview--architecture)
-- [2.5 Data Structures and Algorithms Used](#25-data-structures-and-algorithms-used)
-- [2.6 Implementation Approach](#26-implementation-approach)
-- [2.7 Time and Space Complexity Analysis](#27-time-and-space-complexity-analysis)
-- [2.8 Execution Steps](#28-execution-steps)
-- [2.9 Sample Inputs and Outputs](#29-sample-inputs-and-outputs)
-- [2.10 Screenshots](#210-screenshots)
-- [2.11 Results and Observations](#211-results-and-observations)
-- [2.12 Conclusion](#212-conclusion)
-
 ---
 
 ## 2.1 Project Title
@@ -288,13 +268,23 @@ BST height: 3   (AVL balanced, O(log n) guaranteed)
 ## 2.10 Screenshots
 
 ### Customer Menu and Order Receipt
-![Customer Menu and Order Receipt](assets/Screenshot%202026-06-17%20at%2012.46.27 AM.png)
+
+<p align="center">
+  <img src="assets/Screenshot%202026-06-17%20at%2012.46.27%E2%80%AFAM.png" width="700">
+</p>
 
 ### Admin Dashboard — Live System Metrics
-![Admin Dashboard](assets/Screenshot%202026-06-17%20at%2012.45.28 AM.png)
+
+<p align="center">
+  <img src="assets/Screenshot%202026-06-17%20at%2012.45.28%E2%80%AFAM.png" width="700">
+</p>
 
 ### Delivery Graph — Adjacency List
-![Delivery Graph](assets/Screenshot%202026-06-17%20at%2012.08.39 AM.png)
+
+<p align="center">
+  <img src="assets/Screenshot%202026-06-17%20at%2012.08.39%E2%80%AFAM.png" width="700">
+</p>
+
 
 Note: The terminal screenshot above is a capture of a scripted run of the program (placing a quick order) and shows the real receipt output produced by the binary.
 
